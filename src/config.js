@@ -19,7 +19,7 @@ import pfp from "./pfp.jpg";
 
 export const profile = {
   name: "Dimian Constantin Silvian",
-  title: "Student la informatică · Aspiring Software Developer",
+  title: "Student la mate-info · Aspiring Software Developer",
   photo: pfp,
   email: "costidimian@gmail.com",
   location: "Craiova",
