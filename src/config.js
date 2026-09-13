@@ -1,7 +1,7 @@
 // ============================================================
 //  AICI ÎȚI PUI DATELE TALE — restul site-ului se ia de aici.
 // ============================================================
-import { FaGithub, FaInstagram, FaTelegram, FaSteam } from "react-icons/fa6";
+import { FaGithub, FaInstagram, FaTelegram, FaSpotify, FaSteam } from "react-icons/fa6";
 import {
   SiHtml5,
   SiCss,
@@ -52,5 +52,6 @@ export const links = [
   { name: "GitHub", handle: "@constantyn-silvian", url: "https://github.com/constantyn-silvian", icon: FaGithub, color: "#f0f6fc" },
   { name: "Instagram", handle: "@costi_dimian", url: "https://instagram.com/costi_dimian", icon: FaInstagram, color: "#E4405F" },
   { name: "Telegram", handle: "@constantyn_silvian", url: "https://t.me/constantyn_silvian", icon: FaTelegram, color: "#26A5E4" },
+  { name: "Spotify", handle: "@costi", url: "https://open.spotify.com/user/yliadhssjk8djig98xgg4xs6c", icon: FaSpotify, color: "#1DB954" },
   { name: "Steam", handle: "@constantyn-silvian", url: "https://steamcommunity.com/id/constantynsilvian/", icon: FaSteam, color: "#66C0F4" },
 ];
